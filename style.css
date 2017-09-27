@@ -140,5 +140,5 @@ form.contact-form{
   background-color: #407fc7;
 }
 #about, #my-work,#contact-me {
-  border: 3px solid yellow;
+  /*border: 3px solid yellow;*/
 }
