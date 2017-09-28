@@ -205,6 +205,9 @@ form.contact-form{
   .item {
     max-width: 100%;
   }
+  form.contact-form {
+    width: 80%;
+  }
 
 
 }
