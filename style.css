@@ -60,6 +60,7 @@ li:hover a {
 #my-avatar img{
   width: 200px;
 }
+<<<<<<< HEAD
 .tab th{
   /*border: 1px solid red;*/
   width: 20%;
@@ -68,6 +69,8 @@ li:hover a {
   margin-top: 0;
   /*border: 1px solid blue;*/
 }
+=======
+>>>>>>> 223c37edb9a4b4e7c151852dae4bf6d0fee3adbd
 .item{
   position: relative;
   max-width: 30%;
