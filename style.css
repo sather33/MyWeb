@@ -60,6 +60,14 @@ li:hover a {
 #my-avatar img{
   width: 200px;
 }
+.tab th{
+  /*border: 1px solid red;*/
+  width: 20%;
+}
+.tab p{
+  margin-top: 0;
+  /*border: 1px solid blue;*/
+}
 .item{
   position: relative;
   max-width: 30%;
@@ -204,6 +212,9 @@ form.contact-form{
   }
   .item {
     max-width: 100%;
+  }
+  form.contact-form {
+    width: 80%;
   }
 
 
